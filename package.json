@@ -1,0 +1,29 @@
+{
+  "name": "restful-express",
+  "version": "1.0.0",
+  "description": "Latihan Restful API Express MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgiliusnanamanek/express-mongodb.git"
+  },
+  "keywords": [
+    "rest",
+    "express",
+    "mongodb"
+  ],
+  "author": "Virgilius Nana Manek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgiliusnanamanek/express-mongodb/issues"
+  },
+  "homepage": "https://github.com/virgiliusnanamanek/express-mongodb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.7"
+  }
+}
